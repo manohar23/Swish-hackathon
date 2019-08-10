@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+ int n,p,y,temp,sum=0;
+ scanf("%d,%d" &n,&y);
+ while(y!=0){
+ temp=n;
+ sum=sum+n;
+ sum=(temp-x*(p/100));
+ }
+ printf("%d",sum);
+}
